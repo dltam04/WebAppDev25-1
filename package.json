@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "webappdev25-1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dltam04/WebAppDev25-1.git"
+  },
+  "keywords": ["html", "css", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dltam04/WebAppDev25-1/issues"
+  },
+  "homepage": "https://github.com/dltam04/WebAppDev25-1#readme",
+  "description": ""
+}
